@@ -10,4 +10,4 @@ Descargar la plantilla base, que sólo contiene el archivo html, para realizar e
 ## Expresiones de Gratitud 🎁
 
 * Comenta a otros sobre este proyecto 📢
-* Invita una pisco 🍸 o un café ☕ a alguien del equipo.
+* Invita una pisco 🍸 o un café ☕ a alguien del equipo [Paypal](https://www.paypal.com/paypalme/ECernaRequejo)
